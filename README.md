@@ -115,7 +115,7 @@ Then add your plugin to `.claude-plugin/marketplace.json`.
 
 ## License
 
-MIT
+Proprietary - ASU Learning Enterprise. Internal use only.
 
 ---
 
