@@ -1,0 +1,19 @@
+{
+  "name": "asana",
+  "description": "Asana integration for Claude Code. Access workspaces, projects, and tasks using Python.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ASU Learning Enterprise"
+  },
+  "homepage": "https://github.com/ASU-LE/claude-plugins",
+  "repository": "https://github.com/ASU-LE/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "asana",
+    "tasks",
+    "projects",
+    "workspaces",
+    "work management",
+    "asu"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hubspot",
+  "description": "HubSpot CRM integration for Claude Code. Access contacts, companies, deals, tickets, and more using Python.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ASU Learning Enterprise"
+  },
+  "homepage": "https://github.com/ASU-LE/claude-plugins",
+  "repository": "https://github.com/ASU-LE/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "hubspot",
+    "crm",
+    "contacts",
+    "companies",
+    "deals",
+    "tickets",
+    "marketing",
+    "asu"
+  ]
+}

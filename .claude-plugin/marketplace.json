@@ -1,0 +1,45 @@
+{
+  "name": "asu-claude-plugins",
+  "description": "ASU Learning Enterprise plugins for Claude Code - Canvas LMS, Airtable, Asana, Salesforce, HubSpot and more",
+  "owner": {
+    "name": "ASU Learning Enterprise",
+    "url": "https://github.com/ASU-LE"
+  },
+  "plugins": [
+    {
+      "name": "canvas-lms",
+      "source": "./plugins/canvas-lms",
+      "version": "1.0.0",
+      "description": "Canvas LMS integration - courses, modules, pages, assignments, quizzes",
+      "homepage": "https://github.com/ASU-LE/claude-plugins"
+    },
+    {
+      "name": "airtable",
+      "source": "./plugins/airtable",
+      "version": "1.0.0",
+      "description": "Airtable integration - bases, tables, records using Python pyairtable",
+      "homepage": "https://github.com/ASU-LE/claude-plugins"
+    },
+    {
+      "name": "asana",
+      "source": "./plugins/asana",
+      "version": "1.0.0",
+      "description": "Asana integration - workspaces, projects, tasks using Python",
+      "homepage": "https://github.com/ASU-LE/claude-plugins"
+    },
+    {
+      "name": "salesforce",
+      "source": "./plugins/salesforce",
+      "version": "1.0.0",
+      "description": "Salesforce CRM integration - objects, records, SOQL queries using Python",
+      "homepage": "https://github.com/ASU-LE/claude-plugins"
+    },
+    {
+      "name": "hubspot",
+      "source": "./plugins/hubspot",
+      "version": "1.0.0",
+      "description": "HubSpot CRM integration - contacts, companies, deals, tickets using Python",
+      "homepage": "https://github.com/ASU-LE/claude-plugins"
+    }
+  ]
+}

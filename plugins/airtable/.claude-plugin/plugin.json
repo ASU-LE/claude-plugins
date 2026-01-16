@@ -1,0 +1,20 @@
+{
+  "name": "airtable",
+  "description": "Airtable integration for Claude Code. Access bases, tables, and records using direct API calls. No third-party dependencies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ASU Learning Enterprise"
+  },
+  "homepage": "https://github.com/ASU-LE/claude-plugins",
+  "repository": "https://github.com/ASU-LE/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "airtable",
+    "database",
+    "spreadsheet",
+    "records",
+    "bases",
+    "tables",
+    "asu"
+  ]
+}

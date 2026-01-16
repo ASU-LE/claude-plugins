@@ -1,0 +1,21 @@
+{
+  "name": "salesforce",
+  "description": "Salesforce integration for Claude Code. Access objects, records, and SOQL queries using Python.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ASU Learning Enterprise"
+  },
+  "homepage": "https://github.com/ASU-LE/claude-plugins",
+  "repository": "https://github.com/ASU-LE/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "salesforce",
+    "crm",
+    "accounts",
+    "contacts",
+    "leads",
+    "opportunities",
+    "soql",
+    "asu"
+  ]
+}
